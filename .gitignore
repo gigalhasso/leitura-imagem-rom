@@ -1,0 +1,27 @@
+# Editor and local assistant state
+.agents/
+.codex/
+
+# Dependency caches and local tool environments
+.pnpm-store/
+tools/.deps/
+**/__pycache__/
+*.py[cod]
+node_modules/
+
+# Generated output and large research downloads
+/dist/
+/exports/
+/.research/
+
+# Game assets, ROM extractions, and rebuilt images
+/extracted/
+/extracted_naruto/
+/extracted_naruto_shippuden_final/
+/rebuild_naruto_20260718/
+*.bin
+*.iso
+*.cue
+*.mrg
+*.str
+*.dat

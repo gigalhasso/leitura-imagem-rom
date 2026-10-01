@@ -1,0 +1,6 @@
+[submodule "catalogo_publico"]
+	path = catalogo_publico
+	url = https://github.com/gigalhasso/yugioh-catalogo.git
+[submodule "yugioh-rom-tools"]
+	path = yugioh-rom-tools
+	url = https://github.com/gigalhasso/yugioh-rom-tools.git
